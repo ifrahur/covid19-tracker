@@ -4,8 +4,9 @@ Covid-19 Tracker is free and Open Source, Cross Platform web and Android Applica
 Download the Latest version from the below links.
 
 ## Download the App
-### MediaFire(click on the MediaFire Icon)
-[<img align="center" src="https://www.pngkey.com/png/detail/189-1892159_five-nights-at-freddys-4-halloween-dlc-update.png" width="200" height="100">](http://www.mediafire.com/file/b5vrphkkwe5138x/Covid-Tracker.apk/file)
+[<img src="https://image.flaticon.com/icons/svg/443/443049.svg"
+width="60">](https://github.com/adarshbalu/covid_track/raw/master/build/app/outputs/apk/release/app-release.apk)
+
 
 ## About
 
