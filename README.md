@@ -3,6 +3,11 @@
 Covid-19 Tracker is free and Open Source, Cross Platform web and Android Application developed using [Flutter](https://github.com/flutter/flutter).
 Download the Latest version from the below links.
 
+## Go to the website
+[Covid19-tracker link](https://covid19ind-updates.netlify.app/#/)
+
+
+
 ## Download the App
 [<img src="https://image.flaticon.com/icons/svg/443/443049.svg"
 width="60">](https://github.com/adarshbalu/covid_track/raw/master/build/app/outputs/apk/release/app-release.apk)
