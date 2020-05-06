@@ -19,3 +19,8 @@ Covid-19 Tracker tracks the active, recovered and deaths due to corona virus all
 This Web/Mobile application allows you to select different countries and States of India to obtain the results. For India along with the states individual data, even the district data can be accessed.
 
 Along with the Statistics of Covid-19 it also gives Latest NEWS in the news section which are further sub divided into various sections like Headlines, technology, Entertainment etc.
+
+## Screenshots
+<img src="screenshots/india home.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">
