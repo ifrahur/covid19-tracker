@@ -21,6 +21,29 @@ This Web/Mobile application allows you to select different countries and States 
 Along with the Statistics of Covid-19 it also gives Latest NEWS in the news section which are further sub divided into various sections like Headlines, technology, Entertainment etc.
 
 ## Screenshots
-<img src="screenshots/india home.jpg" align="center"
+<img src="screenshots/India home.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+<img src="screenshots/state.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+<img src="screenshots/state inisde.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+
+<img src="screenshots/district.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+<img src="screenshots/countries.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+<img src="screenshots/world.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+
+<img src="screenshots/info.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">
+<img src="screenshots/news.jpeg" align="center"
 width="200"
     hspace="10" vspace="10">
