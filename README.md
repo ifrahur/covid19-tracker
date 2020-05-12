@@ -55,4 +55,4 @@ width="200"
 - [COVID-19 API](https://covid19api.com/) for country and world data.
 - [COVID19-India API](https://api.covid19india.org/) for India data.
 - [NEWS API](https://github.com/cyberboysumanjay/Inshorts-News-API) for Latest News.
-- [Rendi Ramadana](https://www.uplabs.com/posts/coronavirus-information-concept) and [Abu Anwar](https://github.com/abuanwar072/Covid-19-Flutter-UI) for UI design.
+- [Rendi Ramadana](https://www.uplabs.com/posts/coronavirus-information-concept) and [Adarsh Balachandran](https://github.com/adarshbalu/covid_track) for UI design and concept.
