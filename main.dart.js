@@ -26806,7 +26806,7 @@ X.DL.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=miscellaneous"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=all"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new X.Uo(r))
@@ -26842,7 +26842,7 @@ V.E9.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=business"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=business"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new V.V1(r))
@@ -26878,7 +26878,7 @@ S.EV.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=entertainment"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=entertainment"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new S.VV(r))
@@ -26914,7 +26914,7 @@ N.Fl.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=national"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=national"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new N.Wo(r))
@@ -26950,7 +26950,7 @@ F.Gn.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=politics"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=politics"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new F.XQ(r))
@@ -26986,7 +26986,7 @@ B.H1.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=science"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=science"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new B.YB(r))
@@ -27022,7 +27022,7 @@ E.Hq.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=sports"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=sports"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new E.YR(r))
@@ -27058,7 +27058,7 @@ E.Hu.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=startup"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=startup"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new E.YV(r))
@@ -27094,7 +27094,7 @@ L.HR.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=technology"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=technology"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new L.Zq(r))
@@ -27130,7 +27130,7 @@ Q.Ir.prototype={
 a_:function(a){var t=0,s=P.Z(u.z),r=this,q
 var $async$a_=P.V(function(b,c){if(b===1)return P.W(c,s)
 while(true)switch(t){case 0:t=2
-return P.a7(G.fB("https://ifrahurnews.herokuapp.com/news?category=world"),$async$a_)
+return P.a7(G.fB("https://unofficial-inshorts-api.herokuapp.com/news?category=world"),$async$a_)
 case 2:q=c
 r.d=C.a4.bg(0,B.fA(U.fx(q.e).c.a.h(0,"charset")).bg(0,q.x))
 r.ad(new Q.a_d(r))
